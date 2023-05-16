@@ -1,3 +1,3 @@
-# Kokoa Clone Update
+# Kakao-Talk-Clone
 
-HTML & CSS are so much fun!
+This is clone coding for Kakao Talk using HTML & CSS
